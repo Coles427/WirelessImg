@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:2:1-31:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\6c8af4285eeb7e299de09724c188fe16\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\f7044490f4a83511713d234226a411bc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4b4b56eb05bb3d5b4f6709030e5a4aaa\AndroidManifest.xml:2:1-11:12
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\da4c1161d23f69b57e538dd7d8128601\AndroidManifest.xml:1:1-4:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\27b642ef65e469d0ab7be9cdd3e04c4b\AndroidManifest.xml:2:1-7:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\97079e2d9e1432e572c25d08a97ac139\AndroidManifest.xml:2:1-4:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b10b5b3d3a9f30523cc449136d70e149\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\5ddce10d8f0b225181ed4610522e461e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\cc33965d69fef749f63ea623f9509987\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d1f878ffea0830f0c951a920eefcef6e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8d898a2f5cb6c81ca83e8c687ae06a1d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b701b7fbf32a2cd9c9d1d08ec7ba382a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\2c593d0e2014a9f64e1a20a597f5b7f8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\e0452ac62eaaf82f74f085a0cbd20dfb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d6feee147e265b6f9f57807ed3a7b098\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4e5d7fe3cc715b06ab0b1366ce5956a8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\759c5e24349448118b2e60dfcef2c84b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\5239f10c5b6eb31251fc1db79b4c8143\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\05109e4fd8c41a2a4846c0f9c3766a60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8fa1ba38f5a439e5ed5a94e13004e3be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\834e85d5071f52067341bde02e8a7966\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\f3364faa11bc005562a00cd4c63f5674\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\a72e36bbef0fab29ec8f95524857363f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\a4b311d6b417f4625b38f4d185b0a3ba\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\68d4aed6475401eedfcf71e461f04df0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4955840c444dc26992697b19aace2f9d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\333251aafb97532c5b59fb8664c4e08a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\159a047f7b928076f2edb1952d525e7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b21b20b82826cc0e9995fa465d02c39b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8a92f84cab6322218a64ff25b5aeae99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\363392c5293a2473c650a6ec8648f802\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\0ec161b10dfbbced3abc5280405aea62\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\daa12d9a2eea31d0e03b3f69fc7da6be\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d6654889cc5d32fcb4bbefc7fc22bc7c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\78aefdc356d4eb3f84a55ffac629882d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\ae0b5ebae3a5cd315bf22d2fe3d96246\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\3e8b957c1eb467e6033ba94413c015d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\2ce9aebce8428953d746d49dee4ac4a0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4d281ddefb76a498b33860f065582060\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:3:5-47
+	android:versionName
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:5:5-30
+		INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+		INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:4:5-28
+		INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+		INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:7:5-67
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\da4c1161d23f69b57e538dd7d8128601\AndroidManifest.xml:3:5-66
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\da4c1161d23f69b57e538dd7d8128601\AndroidManifest.xml:3:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\27b642ef65e469d0ab7be9cdd3e04c4b\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\27b642ef65e469d0ab7be9cdd3e04c4b\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:9:22-77
+application
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:13:5-29:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\f7044490f4a83511713d234226a411bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\f7044490f4a83511713d234226a411bc\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4b4b56eb05bb3d5b4f6709030e5a4aaa\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4b4b56eb05bb3d5b4f6709030e5a4aaa\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\68d4aed6475401eedfcf71e461f04df0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\68d4aed6475401eedfcf71e461f04df0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4955840c444dc26992697b19aace2f9d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4955840c444dc26992697b19aace2f9d\AndroidManifest.xml:24:5-25:19
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4d281ddefb76a498b33860f065582060\AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4d281ddefb76a498b33860f065582060\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\68d4aed6475401eedfcf71e461f04df0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:14:9-47
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:18:9-19:58
+	android:theme
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:18:19-82
+activity#com.amazonaws.demo.androidpubsub.PubSubActivity
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:23:9-28:20
+	android:name
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:23:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\6c8af4285eeb7e299de09724c188fe16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\6c8af4285eeb7e299de09724c188fe16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\f7044490f4a83511713d234226a411bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\f7044490f4a83511713d234226a411bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4b4b56eb05bb3d5b4f6709030e5a4aaa\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4b4b56eb05bb3d5b4f6709030e5a4aaa\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b10b5b3d3a9f30523cc449136d70e149\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b10b5b3d3a9f30523cc449136d70e149\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\5ddce10d8f0b225181ed4610522e461e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\5ddce10d8f0b225181ed4610522e461e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\cc33965d69fef749f63ea623f9509987\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\cc33965d69fef749f63ea623f9509987\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d1f878ffea0830f0c951a920eefcef6e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d1f878ffea0830f0c951a920eefcef6e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8d898a2f5cb6c81ca83e8c687ae06a1d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8d898a2f5cb6c81ca83e8c687ae06a1d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b701b7fbf32a2cd9c9d1d08ec7ba382a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b701b7fbf32a2cd9c9d1d08ec7ba382a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\2c593d0e2014a9f64e1a20a597f5b7f8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\2c593d0e2014a9f64e1a20a597f5b7f8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\e0452ac62eaaf82f74f085a0cbd20dfb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\e0452ac62eaaf82f74f085a0cbd20dfb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d6feee147e265b6f9f57807ed3a7b098\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d6feee147e265b6f9f57807ed3a7b098\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4e5d7fe3cc715b06ab0b1366ce5956a8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4e5d7fe3cc715b06ab0b1366ce5956a8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\759c5e24349448118b2e60dfcef2c84b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\759c5e24349448118b2e60dfcef2c84b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\5239f10c5b6eb31251fc1db79b4c8143\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\5239f10c5b6eb31251fc1db79b4c8143\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\05109e4fd8c41a2a4846c0f9c3766a60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\05109e4fd8c41a2a4846c0f9c3766a60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8fa1ba38f5a439e5ed5a94e13004e3be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8fa1ba38f5a439e5ed5a94e13004e3be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\834e85d5071f52067341bde02e8a7966\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\834e85d5071f52067341bde02e8a7966\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\f3364faa11bc005562a00cd4c63f5674\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\f3364faa11bc005562a00cd4c63f5674\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\a72e36bbef0fab29ec8f95524857363f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\a72e36bbef0fab29ec8f95524857363f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\a4b311d6b417f4625b38f4d185b0a3ba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\a4b311d6b417f4625b38f4d185b0a3ba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\68d4aed6475401eedfcf71e461f04df0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\68d4aed6475401eedfcf71e461f04df0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4955840c444dc26992697b19aace2f9d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4955840c444dc26992697b19aace2f9d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\333251aafb97532c5b59fb8664c4e08a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\333251aafb97532c5b59fb8664c4e08a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\159a047f7b928076f2edb1952d525e7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\159a047f7b928076f2edb1952d525e7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b21b20b82826cc0e9995fa465d02c39b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\b21b20b82826cc0e9995fa465d02c39b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8a92f84cab6322218a64ff25b5aeae99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\8a92f84cab6322218a64ff25b5aeae99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\363392c5293a2473c650a6ec8648f802\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\363392c5293a2473c650a6ec8648f802\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\0ec161b10dfbbced3abc5280405aea62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\0ec161b10dfbbced3abc5280405aea62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\daa12d9a2eea31d0e03b3f69fc7da6be\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\daa12d9a2eea31d0e03b3f69fc7da6be\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d6654889cc5d32fcb4bbefc7fc22bc7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\d6654889cc5d32fcb4bbefc7fc22bc7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\78aefdc356d4eb3f84a55ffac629882d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\78aefdc356d4eb3f84a55ffac629882d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\ae0b5ebae3a5cd315bf22d2fe3d96246\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\ae0b5ebae3a5cd315bf22d2fe3d96246\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\3e8b957c1eb467e6033ba94413c015d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\3e8b957c1eb467e6033ba94413c015d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\2ce9aebce8428953d746d49dee4ac4a0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\2ce9aebce8428953d746d49dee4ac4a0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4d281ddefb76a498b33860f065582060\AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\4d281ddefb76a498b33860f065582060\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+		INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+		ADDED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+		INJECTED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\SPB_Data\AWS_Android\aws-sdk-android-samples\AndroidPubSub\AndroidManifest.xml:2:1-31:12 reason: com.amazonaws.iot has a targetSdkVersion < 4
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\27b642ef65e469d0ab7be9cdd3e04c4b\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.13] C:\Users\Cole\.gradle\caches\transforms-2\files-2.1\27b642ef65e469d0ab7be9cdd3e04c4b\AndroidManifest.xml:5:22-76

@@ -1,0 +1,4 @@
+#Sun Mar 14 21:14:59 PDT 2021
+base.0=C\:\\SPB_Data\\AWS_Android\\aws-sdk-android-samples\\AndroidPubSub\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
